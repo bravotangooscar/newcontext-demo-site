@@ -4,7 +4,7 @@ Simple cookbook that pulls down a demo site to be served by Nginx
 
 ## Supported Platforms
 
-Tested against CentOS; will likely work on other Linux platforms (caveat emptor)
+Tested against Ubuntu Precise 64; will likely work on other Linux platforms (caveat emptor)
 
 ## Attributes
 
